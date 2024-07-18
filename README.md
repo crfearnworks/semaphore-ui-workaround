@@ -1,6 +1,6 @@
-# ansible-admin
+# semaphore-ui-workaround
 
-This is a Docker installation of Ansible Semaphore, allowing admins to use a web-based UI to manage Ansible scripts. 
+This is a Docker installation of Semaphore, allowing admins to use a web-based UI to manage Ansible scripts. 
 
 ## Background
 The official Semaphore docker image, https://hub.docker.com/r/semaphoreui/semaphore, as of 7/18/24, has a number of issues:
